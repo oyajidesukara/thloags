@@ -2,7 +2,7 @@
   "title": "The Honest Life of a Game Studio",
   "description": "I, Anan Naoyoshi, joined Last Boss Korin, Co. in pursuit of Nobu-san, the game planner I’ve long admired. Things, however, are sour between us.
 
-Our strained relationship aside, the two of us went on an overseas business trip. But then whyyyyy are we on a desert island?! And as if that wasn’t bad enough, he now tells me we’re stuck in a game of his own creation. Wait—we’re in a whaaaaat?!",
+Our strained relationship aside, the two of us went on an overseas business trip. But then whyyyyy are we on a desert island?! And as if that wasn’t bad enough, he now tells me we’re stuck in a game of his own creation. Wait, we’re in a whaaaaat?!",
   "artist": "Higefusa",
   "author": "Higefusa",
   "cover": "https://i.imgur.com/QrCshUz.jpg",
@@ -17,7 +17,7 @@ Our strained relationship aside, the two of us went on an overseas business trip
     },
    "2": {
       "title": "You, Me, and the Desert Island Part 1",
-      "volume": "<volume number>",
+      "volume": "0",
       "groups": {
         "Oyajidesukara": "/proxy/api/imgur/chapter/3Ga1VjR/"
       },
